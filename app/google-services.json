@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "596323942229",
+    "firebase_url": "https://patient-management-syste-e4680.firebaseio.com",
+    "project_id": "patient-management-syste-e4680",
+    "storage_bucket": "patient-management-syste-e4680.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596323942229:android:9f7778d26d1f34ff4579dc",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596323942229-tjntia2jgiit4pttq8in5bedkov74kbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXl6nT3G-ABXy3SsCvNgJ9j04J6Z1exRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596323942229-tjntia2jgiit4pttq8in5bedkov74kbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
